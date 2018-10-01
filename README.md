@@ -4,7 +4,7 @@
 
 ## 1. https://getcomposer.org/download/
 
-## 2. https://www.apachefriends.org/index.html or http://www.wampserver.com/en/
+## 2. https://www.apachefriends.org/index.html
 
 ## 3. Local Disk (C:) > xampp > htdocs
 open with Git Bash
